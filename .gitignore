@@ -44,6 +44,9 @@ routes.properties
 /src/main/resources/prod/application.properties
 /src/main/resources/dev/routes.properties
 /src/main/resources/prod/routes.properties
+/src/main/resources/prod/db-configuration.properties
+/src/main/resources/dev/db-configuration.properties
+/src/main/resources/db-configuration.properties
 
 routes-prod.txt
 routes.txt
